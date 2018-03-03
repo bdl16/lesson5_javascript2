@@ -13,8 +13,7 @@ Benjamin Landerman
 To create a program to calculate tax based on income and personal status.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bdl16.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. I learned how to input the calculations needed for this calculator.
