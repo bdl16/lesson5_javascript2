@@ -19,5 +19,5 @@ To create a program to calculate tax based on income and personal status.
 ### Lessons Learned in the Assignment:
 1. I learned how to input the calculations needed for this calculator.
 2. I learned how to use if, else if statements.
-3. I learned how to clear the page to give the user a fresh page.
+3. I learned how to clear the web page to give the user a fresh page.
 
